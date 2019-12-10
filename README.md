@@ -2,6 +2,6 @@
 
 Study for python
 
-test
+test2
   
 记录所学python知识点
