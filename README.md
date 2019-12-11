@@ -11,10 +11,10 @@ md文档编辑工具：
 GitHub Desk的[使用方法](https://github.com/joinbu/python_study/tree/master/辅助工具/GitHub%20Desk%E7%9A%84%E4%BD%BF%E7%94%A8 )
 
 ## 准备工作 Preparation  
-anaconda的[安装](https://github.com/joinbu/python_study/tree/master/准备工作(Preparation )/python)
+anaconda的[安装](https://github.com/joinbu/python_study/tree/master/准备工作(Preparation )/python)  
 anaconda环境配置
 
-pycharm的[安装](https://github.com/joinbu/python_study/tree/master/准备工作(Preparation )/pycharm)
+pycharm的[安装](https://github.com/joinbu/python_study/tree/master/准备工作(Preparation )/pycharm)  
 pycharm环境配置
 
 
