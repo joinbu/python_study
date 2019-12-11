@@ -1,7 +1,7 @@
 # python_study
 
-Study for python*
-记录所学python知识点*
+Study for python  
+记录所学python知识点  
 
 ## 辅助工具  
 md文档编辑工具：[mdeditor](https://www.mdeditor.com/ "mdeditor")
